@@ -1,0 +1,28 @@
+h2 {
+    color: #FB3640; 
+    text-align: center;
+}
+
+h3 {
+    color: #72147E;
+    text-align: center;
+}
+
+h4 {
+    color: #FEA82F;
+    text-align: left;
+}
+
+header {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+} 
+
+ol {
+    text-align: center;
+    list-style-position: inside
+    }
